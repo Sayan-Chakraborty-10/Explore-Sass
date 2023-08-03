@@ -1,0 +1,35 @@
+nav ul {
+  border: 5px solid red;
+}
+nav ul li {
+  color: aqua;
+}
+nav ul li a {
+  text-decoration: line-through;
+  color: red;
+  font-size: 16px;
+}
+
+h1 {
+  color: red;
+  font-size: 24px;
+}
+
+p {
+  background-color: red;
+  font-size: 50px;
+  color: white;
+}
+
+button {
+  border: 2px solid red;
+  border-radius: 50px;
+  background-color: red;
+  width: 200px;
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+button:hover {
+  background-color: rgb(252, 80, 80);
+}/*# sourceMappingURL=style.css.map */
